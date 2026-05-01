@@ -9,8 +9,7 @@
 |Название|Описание|Стек|
 |---|---|---|
 |[Анализ отсева студентов — OULAD](https://github.com/SofiaMiasnikova/UniversityLearningAnalytics)|Исследовательский анализ поведения 32 000+ студентов онлайн-университета. Когортный анализ, воронка отсева, статистическое сравнение активных и отсевших студентов.|Pandas, NumPy, Seaborn, Matplotlib, SciPy|
-|[Формула цифрового счастья — VK Education](https://github.com/SofiaMiasnikova/happy-index-vk)|Разработка математической формулы индекса счастья на основе открытых данных ВКонтакте. Сбор данных через VK API, анализ тональности текстов с помощью RuBERT, расчёт индекса для 197 пользователей из Татарстана.|VK API, Transformers, RuBERT, Pandas, Matplotlib|
-|[Анализ бразильского маркетплейса — Olist](https://github.com/SofiaMiasnikova/olist-analysis)|Серия учебных проектов на реальных данных e-commerce платформы: векторизация расчётов, RFM-анализ, когортное удержание, временные ряды со скользящим Z-score, дашборды.|NumPy, Pandas, Matplotlib, Seaborn|
+|[Анализ бразильского маркетплейса — Olist](https://github.com/SofiaMiasnikova/olist-analysis)|Анализ 100k+ заказов бразильского маркетплейса Olist. Покрывает полный цикл: сборку датасета из 5 таблиц, RFM-сегментацию клиентов, анализ нарушений SLA доставки и детектирование аномалий выручки через rolling Z-score с защитой от data leakage.|NumPy, Pandas, Matplotlib, Seaborn|
 
 ---
 
@@ -28,4 +27,4 @@
 
 - **GitHub:** [SofiaMiasnikova](https://github.com/SofiaMiasnikova)
 - **Telegram:** [@sofffia_m](https://t.me/@sofffia_m)
-- **Email:** [miasnikova.sk@gmail.com](mailto:your@email.com)
+- **Email:** [miasnikova.sk@gmail.com](miasnikova.sk@gmail.com)
